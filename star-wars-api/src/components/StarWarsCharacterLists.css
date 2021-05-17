@@ -1,0 +1,8 @@
+.StarWarsCharacterLists p {
+    display: inline-block;
+}
+
+.StarWarsCharacterLists img {
+    display: inline-block;
+    width: 100px;
+}
