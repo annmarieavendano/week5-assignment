@@ -6,7 +6,7 @@ import StarWarsCharacter from './StarWarsCharacter';
 import StarWarsCharacterList from './StarWarsCharacterList'; 
 
 function Routes()
- {
+{
     return (
         <Router>
             <Nav />
